@@ -1,3 +1,6 @@
+![TuwiliScan Screenshot](https://github.com/tuwiliyt/sqlinjectionscanner/blob/main/ss1.png)
+![TuwiliScan Screenshot](https://github.com/tuwiliyt/sqlinjectionscanner/blob/main/ss2.png)
+
 # TuwiliScan - SQL Injection Vulnerability Scanner
 
 TuwiliScan adalah aplikasi pemindaian (scanner) yang dirancang untuk mendeteksi potensi kerentanannya pada situs web, khususnya **SQL Injection**, dengan cara melakukan crawling dan memeriksa parameter query di URL. Aplikasi ini ditulis menggunakan **Python** dan memanfaatkan beberapa pustaka seperti `requests`, `BeautifulSoup`, dan `termcolor`.
